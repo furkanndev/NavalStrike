@@ -34,4 +34,10 @@ Naval Strike is a naval combat game where the player controls a ship to shoot su
 ## Getting Started
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/naval-strike.git
+   git clone https://github.com/furkanndev/naval-strike.git
+
+2.Open the solution file in Visual Studio.
+
+3.Build the solution to restore the necessary packages.
+
+4.Run the project.
