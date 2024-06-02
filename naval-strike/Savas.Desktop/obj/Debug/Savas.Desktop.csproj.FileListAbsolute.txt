@@ -1,0 +1,30 @@
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\bin\Debug\Savas.Library.dll
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\bin\Debug\Savas.Library.pdb
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.AssemblyReference.cache
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.AnaForm.resources
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.Form1.resources
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\bin\Debug\WarGame.exe.config
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\bin\Debug\WarGame.exe
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\bin\Debug\WarGame.pdb
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\WarGame.exe
+C:\Users\ASUSROG\Desktop\SavasOyunu-master\Savas.Desktop\obj\Debug\WarGame.pdb
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\bin\Debug\WarGame.exe.config
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\bin\Debug\WarGame.exe
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\bin\Debug\WarGame.pdb
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\bin\Debug\Savas.Library.dll
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\bin\Debug\Savas.Library.pdb
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.AssemblyReference.cache
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.AnaForm.resources
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.Form1.resources
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\obj\Debug\WarGame.exe
+C:\Users\ASUSROG\Desktop\New folder (2)\SavasOyunu-master\Savas.Desktop\obj\Debug\WarGame.pdb
